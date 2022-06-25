@@ -1,2 +1,2 @@
-# git-introdu-o
-fazer um repositorio
+# git introdução
+criar um repositorio GitHub.
